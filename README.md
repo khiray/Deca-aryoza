@@ -1,2 +1,0 @@
-# Deca-aryoza
-project program
